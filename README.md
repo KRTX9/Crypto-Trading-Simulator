@@ -47,7 +47,7 @@ A professional-grade, real-time cryptocurrency futures trading platform with Aut
 - **Error Handling**: Comprehensive error boundaries and user feedback
 - **Loading States**: Smooth loading indicators and transitions
 
-## 🛠 Tech Stack
+## 🛠 Tech Stack Used
 
 ### Frontend
 - **Framework**: React 19.1.1
@@ -60,7 +60,7 @@ A professional-grade, real-time cryptocurrency futures trading platform with Aut
 - **State Management**: React Context API
 - **OAuth**: @react-oauth/google 0.12.2
 
-### Backend
+### Backend Stack
 - **Framework**: Django 4.2.0
 - **API**: Django REST Framework 3.14.0
 - **Authentication**: djangorestframework-simplejwt 5.2.0
